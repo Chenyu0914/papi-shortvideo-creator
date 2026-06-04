@@ -8,7 +8,7 @@
 
 ```bash
 # 方式一：直接克隆到 skills 目录
-git clone https://github.com/YOUR_USERNAME/papi-shortvideo-creator.git \
+git clone https://github.com/Chenyu0914/papi-shortvideo-creator.git \
   ~/.kimi/daimon/skills/papi-shortvideo-creator
 
 # 方式二：下载 .skill 包后解压
